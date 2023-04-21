@@ -1,2 +1,8 @@
-# Spectus
-Assignment
+#TO RUN THE PROJECT GOT TO ROOT DIRECTORY USE FOLLOWING COMMANDS STEP BY STEP
+
+1. npm install
+2. npm start
+
+#TO RUN TEST CASES USE FOLLOWING STEPS
+
+1. npm run test
